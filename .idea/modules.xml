@@ -40,6 +40,7 @@
       <module fileurl="file://$PROJECT_DIR$/oop/017_solid_liskov_substitution_principle/002_oop_017_solid_liskov_substitution_principle.iml" filepath="$PROJECT_DIR$/oop/017_solid_liskov_substitution_principle/002_oop_017_solid_liskov_substitution_principle.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/018_solid_interface_segregation/002_oop_018_solid_interface_segregation.iml" filepath="$PROJECT_DIR$/oop/018_solid_interface_segregation/002_oop_018_solid_interface_segregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/019_solid_dependency_inversion/002_oop_019_solid_dependency_inversion.iml" filepath="$PROJECT_DIR$/oop/019_solid_dependency_inversion/002_oop_019_solid_dependency_inversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns/004_design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns/004_design-patterns.iml" />
     </modules>
   </component>
 </project>

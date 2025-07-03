@@ -36,11 +36,11 @@ classDiagram
 
     }
 
-    ConcreteFactory1 <-- ConcreteClass1
-    ConcreteFactory1 <-- ConcreteClass2
+    ConcreteFactory1 --> ConcreteClass1
+    ConcreteFactory1 --> ConcreteClass2
 
-    ConcreteFactory2 <-- ConcreteClass3
-    ConcreteFactory2 <-- ConcreteClass4
+    ConcreteFactory2 --> ConcreteClass3
+    ConcreteFactory2 --> ConcreteClass4
 
 ```
 

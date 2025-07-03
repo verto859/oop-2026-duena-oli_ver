@@ -12,6 +12,10 @@ Before your start, make sure that your development environment is properly confi
 3. Add `%JAVA_HOME%\bin` to your `PATH`.
     > `$JAVA_HOME/bin` for macOS/Linux
 
+### Maven
+
+Pick how you want to install it: [https://maven.apache.org/install.html](https://maven.apache.org/install.html)
+
 ### Code Editor
 
 Choose your own weapon. Any code editor/IDE would do.

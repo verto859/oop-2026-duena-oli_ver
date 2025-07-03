@@ -29,7 +29,7 @@ classDiagram
         +generate(point)
     }
 
-    EnemyFactory --* Enemy
+    EnemyFactory --> Enemy
 ```
 
 

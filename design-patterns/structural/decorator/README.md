@@ -15,7 +15,7 @@ classDiagram
         +read()
     }
 
-    Decorator *-- DataSource
+    Decorator --> DataSource
 
 ```
 
