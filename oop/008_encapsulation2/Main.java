@@ -9,7 +9,7 @@ public class Main {
     }
 }
 
-class Car {j
+class Car {
     public String make;
     // apply the correct modifer
     ??? String model;
@@ -17,4 +17,5 @@ class Car {j
     public Car() {
         System.out.println("A car is created.");
     }
+
 }
