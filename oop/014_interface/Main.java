@@ -1,5 +1,5 @@
 // An interface is a contract in Object-Oriented programming that defines
-// a set of methods a class must implement without providing the implement.
+// a set of methods a class must implement without providing the implementation.
 //
 // A class can implement multiple interfaces. Unlike multi-level
 // inheritance, introducing interfaces to codebase actually promotes flexibility
