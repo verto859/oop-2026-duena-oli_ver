@@ -21,6 +21,12 @@
       <module fileurl="file://$PROJECT_DIR$/basics/017_function/001_basics_017_function.iml" filepath="$PROJECT_DIR$/basics/017_function/001_basics_017_function.iml" />
       <module fileurl="file://$PROJECT_DIR$/basics/018_function2/001_basics_018_function2.iml" filepath="$PROJECT_DIR$/basics/018_function2/001_basics_018_function2.iml" />
       <module fileurl="file://$PROJECT_DIR$/basics/019_error/001_basics_019_error.iml" filepath="$PROJECT_DIR$/basics/019_error/001_basics_019_error.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/020_type_conversion/001_basics_020_type_conversion.iml" filepath="$PROJECT_DIR$/basics/020_type_conversion/001_basics_020_type_conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/021_type_conversion2/001_basics_021_type_conversion2.iml" filepath="$PROJECT_DIR$/basics/021_type_conversion2/001_basics_021_type_conversion2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/022_array_list/001_basics_022_array_list.iml" filepath="$PROJECT_DIR$/basics/022_array_list/001_basics_022_array_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/023_hashmap/001_basics_023_hashmap.iml" filepath="$PROJECT_DIR$/basics/023_hashmap/001_basics_023_hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/024_file/001_basics_024_file.iml" filepath="$PROJECT_DIR$/basics/024_file/001_basics_024_file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/025_file2/001_basics_025_file2.iml" filepath="$PROJECT_DIR$/basics/025_file2/001_basics_025_file2.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/001_class/002_oop_001_class.iml" filepath="$PROJECT_DIR$/oop/001_class/002_oop_001_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/002_class2/002_oop_002_class2.iml" filepath="$PROJECT_DIR$/oop/002_class2/002_oop_002_class2.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/003_quiz/002_oop_003_quiz.iml" filepath="$PROJECT_DIR$/oop/003_quiz/002_oop_003_quiz.iml" />
