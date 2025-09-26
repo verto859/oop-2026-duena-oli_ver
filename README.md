@@ -19,3 +19,10 @@ Pick how you want to install it: [https://maven.apache.org/install.html](https:/
 ### Code Editor
 
 Choose your own weapon. Any code editor/IDE would do.
+
+### References
+
+- OpenJDK. Oracle. [https://openjdk.org/install/](https://openjdk.org/install/)
+- JavaFX. OpenJFX. (https://openjfx.io/)[https://openjfx.io/]
+- Design Patterns. Refactoring Guru. [What's a design pattern](https://refactoring.guru/design-patterns/what-is-pattern)
+- SOLID Design Principles Explained: Building Better Software Architecture. Digital Ocean. [https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
