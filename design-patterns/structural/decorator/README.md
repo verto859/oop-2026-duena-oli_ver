@@ -19,3 +19,6 @@ classDiagram
 
 ```
 
+## In this example
+
+A phone notification usually have subject and content (**ToastNotification**). Meanwhile, our phone would allow us to show notifications privately (hidden content) / sensored  **ToastPrivacyNotification** *decorator*.
