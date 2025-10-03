@@ -2,6 +2,10 @@
 
 A behavioral design pattern that allows us to save and restore state of an object without revealing the implementation.
 
+- `originator` == Owner of the state
+- `memento` == Copy of the object's state
+
+
 ```mermaid
 classDiagram
     class Memento {
