@@ -20,6 +20,6 @@ public class Main {
 class Student {
     void sayHi() {
         // TODO: print `Hi!` here
-        System.out.println(???);
+        System.out.println("Hi!");
     }
 }

@@ -11,16 +11,16 @@ public class Main {
 // of the rectangle.
 //
 // TODO: Fix our Rectangle class
-??? Rectangle {
-    int h;
-    int w;
+class Rectangle {
+    this h;
+    this w;
 
     public Rectangle(int h, int w) {
-        ???.h = h;
-        ???.w = w;
+        this.h = h;
+        this.w = w;
     }
 
     public int getArea() {
-        return ???.h * ???.w;
+        return this.h * this.w;
     }
 }

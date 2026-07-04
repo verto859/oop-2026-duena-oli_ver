@@ -22,7 +22,7 @@ class Car {
     String model;
 
     // TODO our constructor
-    ??? ???(String make, String model) {
+    public Car(String make, String model) {
         this.make = make; // `this` refer to the instance of class (object).
         this.model = model;
         System.out.printf("A new %s %s is created\n", make, model);
