@@ -1,1 +1,27 @@
+# My OOP Journal
 
+---
+
+📅 Date: 2026-07-04
+<br/>📍 Topic / Module Covered: Setup JDK, cLoning Barako repo, UML Diagram
+
+### What I Did Today
+ I was able to clone the Barako repository from GitHub using git clone. I tried creating a UML diagram to visualize the classes and relationships in the project.
+
+### What I Learned
+ I understood the process of Git cloning and how it helps in obtaining a copy of the project.I realized the importance of UML diagrams in designing object‑oriented programs even before writing any code.
+### Problems I Faced
+ I encountered an error in Git while fetching/pulling from the remote repository, so I had to check the remote URL and credentials. I was somewhat confused about the correct symbols in the UML diagram (e.g., inheritance vs. association).
+
+### Reflections
+Proper setup of the development environment is important to avoid delays in coding.The UML diagram is like a blueprint — the flow of the program becomes clearer when there is a visual representation. Errors in Git are normal, but I am learning how to debug and fix configuration issues.
+
+### Next Steps
+
+Improve the UML diagram to make the representation of the project classes more complete.
+
+Practice basic Java programs using the JDK setup.
+
+Try Git operations (push/pull) again to become more familiar with the workflow.
+
+Read more about different UML relationships agregation,composition.
