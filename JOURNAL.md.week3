@@ -1,0 +1,34 @@
+# My OOP Journal
+
+---
+
+# My OOP Journal
+
+---
+
+📅 Date: 2026-07-04
+<br/>📍 Topic / Module Covered: Create Class, Basic OOP, Constructor, Getters & Setters, Boolean, and Inheritance
+
+### What I Did Today
+
+Today, I learned the fundamentals of Object-Oriented Programming (OOP). I practiced creating classes and objects, writing constructors to initialize object data, and using getters and setters to access and modify private variables. I also learned how to use boolean values in programs and explored inheritance by creating a child class that extends a parent class.
+
+### What I Learned
+
+I learned that a class is a blueprint for creating objects, while objects represent real-world entities. Constructors are used to initialize object values when an object is created. Getters and setters help protect data through encapsulation. Boolean values are useful for making decisions because they only return true or false. I also learned that inheritance allows a child class to inherit the properties and methods of a parent class, making code more reusable.
+
+### Problems I Faced
+
+At first, I was confused about when to use constructors and getters/setters. I also encountered errors when creating inherited classes because I forgot to use the extends keyword correctly. After reviewing the examples and practicing, I understood how each concept works.
+
+### Reflections
+
+The lessons were challenging but very helpful. I realized that OOP makes programs more organized, secure, and easier to maintain. Understanding these concepts will help me build larger and more efficient Java applications in the future.
+
+### Next Steps
+
+- Practice creating more classes with constructors.
+- Improve my understanding of getters and setters.
+- Create programs that use boolean conditions.
+- Build more examples using inheritance.
+- Learn more about OOP concepts like polymorphism and abstraction.
