@@ -5,8 +5,8 @@
 
 public class Main {
   public static void main(String[] args) {
-    System.out.print("Hello"); // <--- Doesn't add a new line
+    System.out.print("Hello World"); // <--- Doesn't add a new line
     // print a space in-between the words
-    System.out.println("World"); // <--- Adds a new line
+    System.out.println("Hello World"); // <--- Adds a new line
   }
 }
