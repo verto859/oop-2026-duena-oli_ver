@@ -2,6 +2,10 @@
 
 ---
 
+# My OOP Journal
+
+---
+
 📅 Date: 2026-07-04
 <br/>📍 Topic / Module Covered: Setup JDK, cLoning Barako repo, UML Diagram
 
@@ -18,10 +22,10 @@ Proper setup of the development environment is important to avoid delays in codi
 
 ### Next Steps
 
-Improve the UML diagram to make the representation of the project classes more complete.
+- Improve the UML diagram to make the representation of the project classes more complete.
 
-Practice basic Java programs using the JDK setup.
+- Practice basic Java programs using the JDK setup.
 
-Try Git operations (push/pull) again to become more familiar with the workflow.
+- Try Git operations (push/pull) again to become more familiar with the workflow.
 
-Read more about different UML relationships agregation,composition.
+- Read more about different UML relationships agregation,composition.
