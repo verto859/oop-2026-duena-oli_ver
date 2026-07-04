@@ -27,8 +27,8 @@ public class Main {
     //
     // Modify the condition so that we could identify whether `i` could be 
     // considered `truthy`
-    if (i) {
-      System.out.println("`i` is truthy");
+    if (i != 0) {
+      System.out.println(String.format("`i` is truthy"));
     }
   }
 }

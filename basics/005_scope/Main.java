@@ -19,6 +19,6 @@ public class Main {
     }
 
     // Move this inside the scope {} where num is defined
-    System.out.println("num = " + num);
+    System.out.println("num = " + num));
   }
 }

@@ -21,7 +21,7 @@ public class Main {
 
     public static void main(String[] args) {
         // create a new instance of scanner
-        Scanner scanner = ??? Scanner(System.in);
+        Scanner scanner = Scanner(System.in);
 
         // Our prompt
         System.out.print("Enter Name: ");

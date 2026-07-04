@@ -5,6 +5,6 @@ public class Main {
 
         // num1 + num2 = 30
         // `30` should be our sum, but something is wrong here
-        System.out.println("num1 + num2 = " + num1 + num2);
+        System.out.println("num1 + num2 = " + num1 + num2));
     }
 }

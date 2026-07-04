@@ -4,6 +4,6 @@ public class Main {
     int num2 = 2020.244;
 
     // Display the sum of `num1` and `num2` in 2 decimal places: 10729.47
-    System.out.println(String.format("{??}", (num1 + num2)));
+    System.out.println(String.format("%.2f", (num1 + num2)));
   }
 }

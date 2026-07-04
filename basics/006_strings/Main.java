@@ -21,7 +21,7 @@ public class Main {
 
     // Format `greet` and `visitor` using `String.format` function to display
     //    Hello! John
-    String formalGreeting = String.format("{???}", greet, visitor);
+    String formalGreeting = String.format("{%s %s}", greet, visitor);
 
     System.out.println(formalGreeting);
   } 
